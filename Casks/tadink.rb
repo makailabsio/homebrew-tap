@@ -1,6 +1,6 @@
 cask "tadink" do
-  version "0.11.0"
-  sha256 "702ec219ead23570fef32cf27afe69297d193d09891e039f474ba7fb2d097235"
+  version "0.12.0"
+  sha256 "573509dfdc9b762ba4d8a33c1f69d9b1bafb28d04256b2d8bbf7f96fb472fbaa"
 
   url "https://download.makailabs.io/tadink/Tadink-#{version}.dmg"
   name "Tadink"
